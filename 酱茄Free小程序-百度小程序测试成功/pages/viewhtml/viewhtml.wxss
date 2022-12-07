@@ -1,0 +1,17 @@
+.jiangqie-page-body.data-v-0ceebef4 {
+  padding: 0 30rpx 30rpx 30rpx;
+}
+.wxParse-p.data-v-0ceebef4 {
+  margin-top: 30rpx;
+  font-size: 30rpx;
+  color: #333333;
+  line-height: 40rpx;
+}
+.wxParse-inline.data-v-0ceebef4 {
+  line-height: 70rpx;
+}
+.jiangqie-page-body rich-text.data-v-0ceebef4,
+.jiangqie-page-body uni-view.data-v-0ceebef4 {
+  line-height: 2.2rem;
+}
+

@@ -1,0 +1,105 @@
+.container.data-v-7d5e07c6 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 0 30rpx;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+/** jiangqie-news-block **/
+.jiangqie-news-type.data-v-7d5e07c6 {
+  font-size: 40rpx;
+  font-weight: 600;
+  color: #555;
+  padding: 16rpx 0 0;
+}
+.jiangqie-news-type text.data-v-7d5e07c6 {
+  float: right;
+  font-size: 28rpx;
+  font-weight: 200;
+  color: #CCC;
+}
+.jiangqie-news-block.data-v-7d5e07c6 {
+  padding: 30rpx 0;
+  min-height: 160rpx;
+  border-bottom: 1rpx solid #DDD;
+  padding-right: 260rpx;
+  clear: right;
+}
+.jiangqie-news-image.data-v-7d5e07c6 {
+  float: right;
+  height: 160rpx;
+  width: 240rpx;
+  margin-right: -260rpx;
+  border-radius: 20rpx;
+  box-shadow: 5rpx 5rpx 20rpx rgba(0, 0, 0, 0.2);
+}
+.jiangqie-news-text.data-v-7d5e07c6 {
+  text-align: left;
+}
+.jiangqie-news-title.data-v-7d5e07c6 {
+  font-size: 32rpx;
+  color: #333;
+  font-weight: 400;
+  line-height: 50rpx;
+  overflow: hidden;
+}
+.jiangqie-news-no-excerpt.data-v-7d5e07c6 {
+  margin-bottom: 30rpx;
+  height: 100rpx;
+}
+.jiangqie-news-describe.data-v-7d5e07c6 {
+  font-size: 24rpx;
+  color: #999;
+  line-height: 30rpx;
+  margin-bottom: 18rpx;
+}
+.jiangqie-news-info.data-v-7d5e07c6 {
+  font-size: 20rpx;
+  color: #CCC;
+  vertical-align: bottom;
+  height: 24rpx;
+}
+.jiangqie-news-cmt.data-v-7d5e07c6 {
+  float: right;
+  padding-right: 4rpx;
+}
+.jiangqie-news-cmt image.data-v-7d5e07c6 {
+  vertical-align: middle;
+  height: 24rpx;
+  width: 24rpx;
+  margin-right: 8rpx;
+  border-radius: 10rpx;
+}
+.jiangqie-news-tag.data-v-7d5e07c6 {
+  float: left;
+  line-height: 32rpx;
+  height: 30rpx;
+  padding: 0 16rpx;
+  border: 1rpx solid #AAA;
+  border-radius: 26rpx;
+  margin-right: 12rpx;
+}
+.jiangqie-news-time.data-v-7d5e07c6 {
+  float: left;
+  line-height: 30rpx;
+  height: 30rpx;
+  vertical-align: middle;
+  padding-left: 10rpx;
+}
+.image-wide.data-v-7d5e07c6 {
+  padding-right: 0;
+}
+.image-wide .jiangqie-news-image.data-v-7d5e07c6 {
+  height: 320rpx;
+  width: 690rpx;
+  margin-right: 0rpx;
+  margin-bottom: 10rpx;
+  clear: both;
+  float: none;
+}
+.image-wide .jiangqie-news-title.data-v-7d5e07c6 {
+  height: auto;
+  margin-bottom: 10rpx;
+}
+

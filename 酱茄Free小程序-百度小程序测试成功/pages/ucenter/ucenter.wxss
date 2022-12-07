@@ -1,0 +1,124 @@
+.jiangqie-top-bg.data-v-4883731c {
+  background-repeat: no-repeat;
+  background-size: 750rpx 520rpx;
+  background-position: 0 -120rpx;
+}
+.jiangqie-userbox.data-v-4883731c {
+  padding-bottom: 30rpx;
+  min-height: 410rpx;
+}
+.jiangqie-usersetup.data-v-4883731c {
+  display: none;
+  padding-top: 40rpx;
+  height: 40rpx;
+  line-height: 40rpx;
+}
+.jiangqie-usersetup image.data-v-4883731c {
+  float: right;
+  height: 36rpx;
+  width: 36rpx;
+  margin-right: 40rpx;
+}
+.jiangqie-userinfo.data-v-4883731c {
+  padding-bottom: 20rpx;
+  text-align: center;
+}
+.jiangqie-useravatar.data-v-4883731c {
+  text-align: center;
+  height: 240rpx;
+  clear: both;
+  padding-top: 80rpx;
+}
+.jiangqie-useravatar image.data-v-4883731c {
+  height: 152rpx;
+  width: 152rpx;
+  border-radius: 152rpx;
+  border: 12rpx solid #FFF;
+  margin-bottom: 20rpx;
+}
+.jiangqie-username.data-v-4883731c {
+  height: 50rpx;
+  line-height: 50rpx;
+  font-size: 36rpx;
+  font-weight: 500;
+  color: #FFF;
+}
+.jiangqie-useralogin.data-v-4883731c {
+  height: 50rpx;
+  line-height: 50rpx;
+  font-size: 30rpx;
+  font-weight: 300;
+  color: #FFF;
+}
+.jiangqie-usermember.data-v-4883731c {
+  height: 30rpx;
+  line-height: 30rpx;
+  font-size: 24rpx;
+  font-weight: 300;
+  color: #9B9B9B;
+}
+.jiangqie-listbox.data-v-4883731c {
+  padding: 0;
+}
+.jiangqie-postcount.data-v-4883731c {
+  border-bottom: 8rpx solid #F3F3F3;
+}
+.jiangqie-listblock.data-v-4883731c {
+  overflow: hidden;
+  margin: 0 30rpx;
+  padding: 25rpx 0;
+}
+.jiangqie-listblock.data-v-4883731c:last-child {
+  border-bottom: none;
+}
+.jiangqie-listcont.data-v-4883731c {
+  float: right;
+  text-align: right;
+}
+.jiangqie-listcont text.data-v-4883731c {
+  font-size: 24rpx;
+  font-weight: 200;
+  color: #999;
+}
+.jiangqie-listcont image.data-v-4883731c {
+  float: right;
+  height: 24rpx;
+  width: 24rpx;
+  margin-left: 10rpx;
+  margin-top: 8rpx;
+}
+.jiangqie-listtitle.data-v-4883731c {
+  text-align: left;
+}
+.jiangqie-listtitle text.data-v-4883731c {
+  font-size: 32rpx;
+  font-weight: 400;
+  color: #333;
+  vertical-align: top;
+}
+.jiangqie-listtitle image.data-v-4883731c {
+  float: left;
+  height: 40rpx;
+  width: 40rpx;
+  margin-right: 16rpx;
+  margin-top: 2rpx;
+}
+button.jiangqie-listtitle.data-v-4883731c {
+  padding: 0;
+  line-height: inherit;
+  background-color: transparent;
+}
+.jiangqie-listblock-line.data-v-4883731c {
+  border-bottom: 1rpx solid #DDD;
+}
+.jiangqie-listblock-line.data-v-4883731c:last-child {
+  border-bottom: none;
+}
+.jiangqie-list-split.data-v-4883731c {
+  height: 16rpx;
+  background-color: #F3F3F3;
+}
+.jiangqie-nomore.data-v-4883731c {
+  margin: 50rpx 0;
+}
+
