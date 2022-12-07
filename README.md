@@ -22,7 +22,6 @@
 ![1 微信开发者工具](https://user-images.githubusercontent.com/39434325/206223825-d4021b53-8a9f-4190-9e3d-0c10b9c5ec8d.PNG)
 ![1 QQ开发者工具界面](https://user-images.githubusercontent.com/39434325/206223849-42eb654f-2671-480b-a5ab-9574b8b86079.PNG)
 ![1 百度小程序开发者界面](https://user-images.githubusercontent.com/39434325/206223888-29d6fc31-b40f-4962-b1a5-aa76fbe0e6a5.PNG)
-![1 移动端界面](https://user-images.githubusercontent.com/39434325/206223961-1eaff096-b9ef-4fb5-8375-5da54d581725.jpg)
 
 ## 项目思路
 ----------------------------------------
