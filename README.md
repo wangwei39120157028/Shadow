@@ -1,12 +1,13 @@
 # Shadow
 本项目是在《铸龙-用户行为分析系统》（谨言慎行）和《酱茄资讯小程序》（追格）的基础上，添加桌面端和移动端各类小程序钩子，重点收集用户在社交平台活动产生的行为数据，并在后台导入大数据分析模块，不断完善量化评判，实现用户行为特征综合分析与预测。
+<br>
 <br>![Shadow-Thoughts and Practice-brightgreen](https://user-images.githubusercontent.com/39434325/206231246-6ba5ddca-ce84-4330-b908-997b4c34b099.svg)
 
 ----------------------------------------
 
 > Shadow: 一个简单的思路与实践(铸龙-用户行为分析系统+酱茄资讯小程序)<br>
+![Shadow分析系统](https://user-images.githubusercontent.com/39434325/206234734-d1ca6f9e-8a31-4be5-ab7a-82dd997b79ae.jpg)
 
-![系统封面](https://user-images.githubusercontent.com/39434325/206223008-ef9c3573-6fc0-44e0-be77-859a36149db2.jpg)
 
 #### 加微信——技术交流：wwy18795980897
 
