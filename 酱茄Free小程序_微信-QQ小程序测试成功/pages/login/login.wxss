@@ -1,0 +1,54 @@
+.jiangqie-app-info.data-v-b237504c {
+  padding: 50rpx 40rpx;
+  text-align: center;
+}
+.jiangqie-app-info image.data-v-b237504c {
+  height: 200rpx;
+  width: 200rpx;
+  border-radius: 200rpx;
+}
+.jiangqie-app-name.data-v-b237504c {
+  font-size: 32rpx;
+  color: #FFF;
+  font-weight: 500;
+  line-height: 80rpx;
+}
+.jiangqie-app-slogan.data-v-b237504c {
+  font-size: 28rpx;
+  color: #f8b8b8;
+  font-weight: 400;
+  line-height: 40rpx;
+}
+.jiangqie-login-btn.data-v-b237504c {
+  margin-top: 160rpx;
+  padding: 0rpx 160rpx;
+}
+.jiangqie-login-btnl.data-v-b237504c,
+.jiangqie-login-btnr.data-v-b237504c {
+  height: 80rpx;
+  font-size: 30rpx;
+  color: #555;
+  font-weight: 400;
+  border-radius: 16rpx;
+  border: 2rpx solid #DDD;
+  margin-top: 30rpx;
+}
+.jiangqie-login-btnl.data-v-b237504c {
+  color: #999;
+  background: #FFF;
+}
+.jiangqie-no-login-tip.data-v-b237504c {
+  margin-top: 30rpx;
+  text-align: center;
+  font-size: 24rpx;
+  color: #999999;
+}
+.bottom-copyright.data-v-b237504c {
+  width: 100%;
+  position: fixed;
+  bottom: 100rpx;
+  color: blue;
+  line-height: 2rem;
+  text-align: center;
+}
+

@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "文章详情",
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "mp-html": "/uni_modules/mp-html/components/mp-html/mp-html",
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "jiangqie-loadmore": "/components/loadmore/loadmore",
+    "jiangqie-nomore": "/components/nomore/nomore",
+    "jiangqie-no-data": "/components/nodata/nodata",
+    "l-painter": "/uni_modules/lime-painter/components/lime-painter/index"
+  }
+}
