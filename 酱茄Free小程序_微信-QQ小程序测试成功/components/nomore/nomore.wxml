@@ -1,0 +1,1 @@
+<block wx:if="{{visible}}"><view class="jiangqie-nomore-class jiangqie-loadmore data-v-cebf08f8"><view class="{{['data-v-cebf08f8',isDot?'jiangqie-nomore-dot':'jiangqie-nomore']}}"><view class="{{['data-v-cebf08f8',isDot?'jiangqie-dot-text':'jiangqie-text']}}" style="{{('background:'+bgcolor)}}">{{(isDot?dotText:text)+''}}</view></view></view></block>

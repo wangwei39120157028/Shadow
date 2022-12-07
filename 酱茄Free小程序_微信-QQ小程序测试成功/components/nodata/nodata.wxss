@@ -1,0 +1,17 @@
+.none_tip.data-v-4bb7b1e4 {
+  padding: 80rpx;
+  text-align: center;
+}
+.none_tip .image.data-v-4bb7b1e4 {
+  height: 200rpx;
+  width: 200rpx;
+}
+.none_tip_text.data-v-4bb7b1e4 {
+  padding: 20rpx;
+}
+.none_tip_text .text.data-v-4bb7b1e4 {
+  font-size: 28rpx;
+  color: #999;
+  font-weight: 200;
+}
+
